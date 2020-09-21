@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T12:49:42.328023Z</date>
+  <millis>1600692582328</millis>
+  <nanos>23000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T12:49:42.373856Z</date>
+  <millis>1600692582373</millis>
+  <nanos>856000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>WARNING</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>Observer already exists</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T13:38:47.245523Z</date>
+  <millis>1600695527245</millis>
+  <nanos>523000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T13:38:47.295561Z</date>
+  <millis>1600695527295</millis>
+  <nanos>561000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>WARNING</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>Reference to current observer already exists.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T13:45:37.905967Z</date>
+  <millis>1600695937905</millis>
+  <nanos>967000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T13:45:37.954859Z</date>
+  <millis>1600695937954</millis>
+  <nanos>859000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>WARNING</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>Reference to current observer already exists.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T13:59:55.879451Z</date>
+  <millis>1600696795879</millis>
+  <nanos>451000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T13:59:55.941729Z</date>
+  <millis>1600696795941</millis>
+  <nanos>729000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T13:59:55.942508Z</date>
+  <millis>1600696795942</millis>
+  <nanos>508000</nanos>
+  <sequence>2</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T13:59:55.943320Z</date>
+  <millis>1600696795943</millis>
+  <nanos>320000</nanos>
+  <sequence>3</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>updateRates</method>
+  <thread>1</thread>
+  <message>Exchange rate has been updated</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T14:02:10.721975Z</date>
+  <millis>1600696930721</millis>
+  <nanos>975000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:02:10.768512Z</date>
+  <millis>1600696930768</millis>
+  <nanos>512000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:02:10.769079Z</date>
+  <millis>1600696930769</millis>
+  <nanos>79000</nanos>
+  <sequence>2</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:02:10.769602Z</date>
+  <millis>1600696930769</millis>
+  <nanos>602000</nanos>
+  <sequence>3</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>updateRates</method>
+  <thread>1</thread>
+  <message>Exchange rate has been updated</message>
+</record>
+<record>
+  <date>2020-09-21T14:02:10.770105Z</date>
+  <millis>1600696930770</millis>
+  <nanos>105000</nanos>
+  <sequence>4</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:02:10.770665Z</date>
+  <millis>1600696930770</millis>
+  <nanos>665000</nanos>
+  <sequence>5</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:02:10.771298Z</date>
+  <millis>1600696930771</millis>
+  <nanos>298000</nanos>
+  <sequence>6</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Notification had been received</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T14:03:17.471745Z</date>
+  <millis>1600696997471</millis>
+  <nanos>745000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:03:17.516857Z</date>
+  <millis>1600696997516</millis>
+  <nanos>857000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:03:17.517422Z</date>
+  <millis>1600696997517</millis>
+  <nanos>422000</nanos>
+  <sequence>2</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:03:17.517935Z</date>
+  <millis>1600696997517</millis>
+  <nanos>935000</nanos>
+  <sequence>3</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>updateRates</method>
+  <thread>1</thread>
+  <message>Exchange rate has been updated</message>
+</record>
+<record>
+  <date>2020-09-21T14:03:17.518702Z</date>
+  <millis>1600696997518</millis>
+  <nanos>702000</nanos>
+  <sequence>4</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>null: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:03:17.519308Z</date>
+  <millis>1600696997519</millis>
+  <nanos>308000</nanos>
+  <sequence>5</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Alice: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:03:17.520038Z</date>
+  <millis>1600696997520</millis>
+  <nanos>38000</nanos>
+  <sequence>6</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>MIG Exchange: notification had been received</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T14:04:19.397503Z</date>
+  <millis>1600697059397</millis>
+  <nanos>503000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:19.442013Z</date>
+  <millis>1600697059442</millis>
+  <nanos>13000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:19.442574Z</date>
+  <millis>1600697059442</millis>
+  <nanos>574000</nanos>
+  <sequence>2</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:19.443095Z</date>
+  <millis>1600697059443</millis>
+  <nanos>95000</nanos>
+  <sequence>3</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>updateRates</method>
+  <thread>1</thread>
+  <message>Exchange rate has been updated</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:19.443930Z</date>
+  <millis>1600697059443</millis>
+  <nanos>930000</nanos>
+  <sequence>4</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>null: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:19.444424Z</date>
+  <millis>1600697059444</millis>
+  <nanos>424000</nanos>
+  <sequence>5</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Alice: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:19.444973Z</date>
+  <millis>1600697059444</millis>
+  <nanos>973000</nanos>
+  <sequence>6</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>MIG Exchange: notification had been received</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T14:04:48.321841Z</date>
+  <millis>1600697088321</millis>
+  <nanos>841000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:48.368495Z</date>
+  <millis>1600697088368</millis>
+  <nanos>495000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:48.369069Z</date>
+  <millis>1600697088369</millis>
+  <nanos>69000</nanos>
+  <sequence>2</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:48.369626Z</date>
+  <millis>1600697088369</millis>
+  <nanos>626000</nanos>
+  <sequence>3</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>updateRates</method>
+  <thread>1</thread>
+  <message>Exchange rate has been updated</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:48.370405Z</date>
+  <millis>1600697088370</millis>
+  <nanos>405000</nanos>
+  <sequence>4</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>MIG Exchange: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:48.370885Z</date>
+  <millis>1600697088370</millis>
+  <nanos>885000</nanos>
+  <sequence>5</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Alice: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:04:48.371349Z</date>
+  <millis>1600697088371</millis>
+  <nanos>349000</nanos>
+  <sequence>6</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Halyk Bank: notification had been received</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-21T14:06:13.167764Z</date>
+  <millis>1600697173167</millis>
+  <nanos>764000</nanos>
+  <sequence>0</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:06:13.215817Z</date>
+  <millis>1600697173215</millis>
+  <nanos>817000</nanos>
+  <sequence>1</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:06:13.216429Z</date>
+  <millis>1600697173216</millis>
+  <nanos>429000</nanos>
+  <sequence>2</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>registerObserver</method>
+  <thread>1</thread>
+  <message>New Observer has been registered.</message>
+</record>
+<record>
+  <date>2020-09-21T14:06:13.216991Z</date>
+  <millis>1600697173216</millis>
+  <nanos>991000</nanos>
+  <sequence>3</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.NationalBankCurrencyRate</class>
+  <method>updateRates</method>
+  <thread>1</thread>
+  <message>Exchange rate has been updated</message>
+</record>
+<record>
+  <date>2020-09-21T14:06:13.217813Z</date>
+  <millis>1600697173217</millis>
+  <nanos>813000</nanos>
+  <sequence>4</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>MIG Exchange: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:06:13.218322Z</date>
+  <millis>1600697173218</millis>
+  <nanos>322000</nanos>
+  <sequence>5</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Alice: notification had been received</message>
+</record>
+<record>
+  <date>2020-09-21T14:06:13.218826Z</date>
+  <millis>1600697173218</millis>
+  <nanos>826000</nanos>
+  <sequence>6</sequence>
+  <logger>org.axteel.lab3observer.NationalBankCurrencyRate</logger>
+  <level>INFO</level>
+  <class>org.axteel.lab3observer.ConcreteObserver</class>
+  <method>update</method>
+  <thread>1</thread>
+  <message>Halyk Bank: notification had been received</message>
+</record>
+</log>
