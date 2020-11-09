@@ -4,14 +4,16 @@ import java.math.BigDecimal;
 import java.util.HashMap;
 
 /**
- * Publishers: National Bank currency change (later can be added other publishers (events) that affect currency rate)
+ *  Publishers: National Bank currency change (later can be added other publishers (events) that affect currency rate)
  *
- * Observable currencies: KZT-EUR, KZT-USD, KZT-RUB
+ *  Observable currencies: KZT-EUR, KZT-USD, KZT-RUB
  *
- * Subscribers: Second-tier Banks, Exchange Offices, Logger of currency changes (currency, from, to, time)
+ *  Subscribers: Second-tier Banks, Exchange Offices, Logger of currency changes (currency, from, to, time)
  *
- * Note. Draw a simple class diagram for your application and include it to your submission.
+ *  Note. Draw a simple class diagram for your application and include it to your submission.
  *
+ *  NB all the previous laboratory works are available on GitHub
+ *      -> https://github.com/axteel/DesignPatternsUniversity
  * */
 
 public class Test {
